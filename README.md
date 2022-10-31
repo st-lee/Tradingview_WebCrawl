@@ -6,7 +6,7 @@ A simple tool for auto-downloading stock data from Tradingview
 - download chromedriver (https://chromedriver.chromium.org/)
 
 ## Usage
-Download all files above, and initialise your Tradingview username, password, and files download path.
+Download all files above, and initialise your Tradingview username, password, and files download path in `Mac_Tradingview_WebCrawl.ipynb`.
 
 ```python
 
