@@ -16,3 +16,6 @@ password = 'oooooooo'
 options = TDV_utlit.Download_path('~/Documents/projects/python/auto_TVdata/australia/data/')
 
 ```
+
+## Note
+- fn + F12, show Dashboard
